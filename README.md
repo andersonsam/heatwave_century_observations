@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/673991566.svg)](https://zenodo.org/doi/10.5281/zenodo.13504222) 
+
 # A Century of Variability of Heatwave-Driven Streamflow in Melt-Driven Basins and Implications Under Climate Change  
 
 This repository contains the code and data required to reproduce the analysis in the study: Anderson, S. and Chartrand, S. "A Century of Variability of Heatwave-Driven Streamflow in Melt-Driven Basins and Implications Under Climate Change" (2024, in review).
