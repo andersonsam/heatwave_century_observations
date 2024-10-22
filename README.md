@@ -2,7 +2,7 @@
 
 # A Century of Variability of Heatwave-Driven Streamflow in Melt-Driven Basins and Implications Under Climate Change  
 
-This repository contains the code and data required to reproduce the analysis in the study: Anderson, S. and Chartrand, S. "A Century of Variability of Heatwave-Driven Streamflow in Melt-Driven Basins and Implications Under Climate Change" (2024, in review).
+This repository contains the code and data required to reproduce the analysis in the study: Anderson, S. and Chartrand, S. "[A Century of Variability of Heatwave-Driven Streamflow in Melt-Driven Basins and Implications Under Climate Change](https://iopscience.iop.org/article/10.1088/1748-9326/ad7ede)" Environmental Research Letters (2024).
 
 <img src= "https://github.com/andersonsam/heatwave_century_observations/blob/main/Figures/Q_labels.png" width=100% >
 
